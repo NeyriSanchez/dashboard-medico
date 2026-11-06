@@ -56,7 +56,7 @@
 
     <!-- Pacientes -->
     <li class="nav-item">
-        <a class="nav-link" href="#">
+        <a class="nav-link" href="pacientes.php">
             <i class="fas fa-fw fa-users"></i>
             <span>Pacientes</span>
         </a>
@@ -64,7 +64,7 @@
 
     <!-- Doctores -->
     <li class="nav-item">
-        <a class="nav-link" href="#">
+        <a class="nav-link" href="doctores.php">
             <i class="fas fa-fw fa-user-md"></i>
             <span>Doctores</span>
         </a>
@@ -72,7 +72,7 @@
 
     <!-- Agendar Cita -->
     <li class="nav-item">
-        <a class="nav-link" href="#">
+        <a class="nav-link" href="agendar-cita.php">
             <i class="fas fa-fw fa-calendar-plus"></i>
             <span>Agendar Cita</span>
         </a>
@@ -80,7 +80,7 @@
 
     <!-- Historial Clínico -->
     <li class="nav-item">
-        <a class="nav-link" href="#">
+        <a class="nav-link" href="historial-clinico.php">
             <i class="fas fa-fw fa-file-medical"></i>
             <span>Historial Clínico</span>
         </a>
